@@ -1,0 +1,3 @@
+image:
+  pullPolicy: IfNotPresent
+  tag: b2d48839ca3303a03c291a97b9d78ee4c14b107a
